@@ -1,0 +1,19 @@
+# Build / CMake
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.o
+*.a
+*.so
+*.d
+*.log
+
+# Datasets grandes
+codes_*.txt
+
+# Otros
+*.zip
+*.bin
+*.out
